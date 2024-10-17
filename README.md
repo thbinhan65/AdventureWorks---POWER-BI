@@ -5,7 +5,8 @@
 Welcome to my warehouse data analysis project! This data repository focuses on understanding inventory management processes, including the storage of goods, product lines, categories, and managing inventory flow at sales points. The goal is to develop strategies for inventory turnover and production prioritization, maximizing product availability at key sales points while maintaining safe stock levels at secondary points.
 
 ## Objective: 
-The aim is to help stakeholders gain a clear understanding of warehouse data, enabling them to make informed decisions and improve operations. This includes monitoring inventory levels, identifying trends, and providing actionable insights to enhance inventory management strategies.
+- The aim is to help stakeholders gain a clear understanding of warehouse data, enabling them to make informed decisions and improve operations. 
+- This includes monitoring inventory levels, identifying trends, and providing actionable insights to enhance inventory management strategies.
 
 ## Analysis Focus:
 
